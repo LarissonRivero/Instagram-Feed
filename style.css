@@ -1,3 +1,11 @@
+*{
+    box-sizing: border-box !important;
+
+}
+
 h5{
     font-weight: bold !important;
+}
+.nav-item{
+    list-style: none !important;
 }
