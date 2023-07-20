@@ -9,3 +9,7 @@ h5{
 .nav-item{
     list-style: none !important;
 }
+
+img{
+    padding-bottom: 2%;
+}
